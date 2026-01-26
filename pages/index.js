@@ -1,6 +1,6 @@
 function Home () {
-  return  <h1>Em aprendizado definitivo, acho que 
-    agora vai, quase, mais uma, fiz uma alteração
+  return  <h1>Julia, queria deixar registrado no meu site, que eu amo voce s2
+  
   </h1>
 }
 
